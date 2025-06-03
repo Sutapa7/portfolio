@@ -116,7 +116,9 @@
   background-color: #fb8500;
   color: #fff;
 }
-
+.header-left-fixed.menu-open{
+    left: 0;
+}
 .header-left-fixed {
   position: fixed;
   bottom: 0;
